@@ -64,7 +64,6 @@ jobs:
           ANSIBLE_CONFIG_FILE: false
           ANSIBLE_DIRECTORY: false
           CSS_FILE_NAME: false
-          DEFAULT_BRANCH: false
           DEFAULT_WORKSPACE: false
           DISABLE_ERRORS: false
           DOCKERFILE_HADOLINT_FILE_NAME: false

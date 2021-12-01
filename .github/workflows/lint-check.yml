@@ -68,13 +68,6 @@ jobs:
           SUPPRESS_FILE_TYPE_WARN: false
           SUPPRESS_POSSUM: false
           SCALAFMT_CONFIG_FILE: false
-          SNAKEMAKE_SNAKEFMT_CONFIG_FILEx: false
-          SSL_CERT_SECRET: false
-          SQL_CONFIG_FILE: false
-          TERRAFORM_TFLINT_CONFIG_FILE: false
-          TERRAFORM_TERRASCAN_CONFIG_FILtoml: false
-          TYPESCRIPT_DEFAULT_STYLE: false
-          TYPESCRIPT_ES_CONFIG_FILE: false
           USE_FIND_ALGORITHM: false
           VALIDATE_ALL_CODEBASE: false
           VALIDATE_ANSIBLE: false
@@ -149,4 +142,3 @@ jobs:
           VALIDATE_TYPESCRIPT_STANDARD: false
           VALIDATE_XML: false
           VALIDATE_YAML: false
-          YAML_CONFIG_FILE: false

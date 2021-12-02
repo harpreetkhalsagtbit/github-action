@@ -91,8 +91,6 @@ jobs:
           VALIDATE_GROOVY: false
           VALIDATE_HTML: false
           VALIDATE_JAVA: false
-          # VALIDATE_JAVASCRIPT_ES: true
-          # VALIDATE_JAVASCRIPT_STANDARD: true
           VALIDATE_JSCPD: false
           VALIDATE_JSON: false
           VALIDATE_JSX: false

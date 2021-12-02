@@ -63,7 +63,6 @@ jobs:
           IGNORE_GITIGNORED_FILES	: true
           ERROR_ON_MISSING_EXEC_BIT: false
           IGNORE_GENERATED_FILES: true
-          IGNORE_GITIGNORED_FILES: true
           MULTI_STATUS: true
           SUPPRESS_FILE_TYPE_WARN: false
           SUPPRESS_POSSUM: false

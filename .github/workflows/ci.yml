@@ -67,7 +67,6 @@ jobs:
           MULTI_STATUS: true
           SUPPRESS_FILE_TYPE_WARN: false
           SUPPRESS_POSSUM: false
-          SCALAFMT_CONFIG_FILE: false
           USE_FIND_ALGORITHM: false
           VALIDATE_ANSIBLE: false
           VALIDATE_ARM: false
